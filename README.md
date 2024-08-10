@@ -2,12 +2,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This project is one of the html practice on [The Odin Project](https://www.theodinproject.com/), the main purpose of this project is to practice all of the HTML knowledge and use the knowledge to build a basic recipe html website.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+## What I Learn
+1. HTML Tag (Paragraph, List, Table, Fieldset & Legend, Metadata, Image)
+2. Inline Style
 <!-- GETTING STARTED -->
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -40,7 +40,8 @@ There are several tools you need to install, there are:
 
 Abi - [@finnssz](https://instagram.com/finnssz) - mauricecathoverile@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/moshcat/odin-recipes](https://github.com/moshcat/odin-recipes)
+Live Preview: [https://moshcat.github.io/odin-recipes/](https://moshcat.github.io/odin-recipes/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
