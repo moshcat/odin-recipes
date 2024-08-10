@@ -5,13 +5,6 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    /* display: flex;
-    justify-content: center;
-    flex-direction: column; */
-}
-
-.recipe__wrapper {
-    display: flex;
 }
 
 a {
