@@ -21,10 +21,7 @@ There are several tools you need to install, there are:
   ```
 
 
-<<<<<<< HEAD
 <!-- INSTALLATION -->
-=======
->>>>>>> 60eb88ccaf3e0e8affe8bd880c5a9a502c96595d
 ### Installation
 
 1. Clone the repo
@@ -45,8 +42,6 @@ Abi - [@finnssz](https://instagram.com/finnssz) - mauricecathoverile@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<<<<<<< HEAD
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-=======
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 60eb88ccaf3e0e8affe8bd880c5a9a502c96595d
+
