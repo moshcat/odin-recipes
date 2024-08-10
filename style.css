@@ -5,13 +5,19 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: column; */
 }
 
 .recipe__wrapper {
     display: flex;
-    justify-content: center;
 }
+
+a {
+    text-decoration: none;
+}
+ol > li::marker {
+    font-weight: bold;
+    text-align: start;
+  }
